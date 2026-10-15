@@ -15,25 +15,11 @@ We're a student chip design club at **UW–Madison**, learning by building acros
 
 Our accelerator project targets **Qwen3.5-2B**, bringing together model profiling, quantization, RISC-V control, and matrix and vector compute. We're developing and testing the system toward FPGA prototyping and ASIC tapeout. Follow the [architecture](https://github.com/SiliconBadgers/architecture) for design decisions and the [SoC workspace](https://github.com/SiliconBadgers/soc) for the current implementation and test results.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Learn the foundations</strong><br><br>
-      Digital design, SystemVerilog, simulation, and AI inference.<br><br>
-      <a href="https://github.com/SiliconBadgers/Onboarding">Start onboarding →</a>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Explore the workload</strong><br><br>
-      Model comparisons, computation graphs, and execution estimates.<br><br>
-      <a href="https://siliconbadgers.com/software/">Open the explorer →</a>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Work on the system</strong><br><br>
-      Pinned component revisions, RISC-V integration, and reproducible tests.<br><br>
-      <a href="https://github.com/SiliconBadgers/soc">Open the SoC workspace →</a>
-    </td>
-  </tr>
-</table>
+**Three ways to get started**
+
+- **[Learn the foundations →](https://github.com/SiliconBadgers/Onboarding)** Digital design, SystemVerilog, simulation, and AI inference.
+- **[Explore the workload →](https://siliconbadgers.com/software/)** Model comparisons, computation graphs, and execution estimates.
+- **[Work on the system →](https://github.com/SiliconBadgers/soc)** RISC-V integration, pinned component revisions, and reproducible tests.
 
 ### Find your part of the chip
 
